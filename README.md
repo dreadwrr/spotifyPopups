@@ -3,9 +3,6 @@
 12/22/2024
 <br/><br/>
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
 Windows 11 modern flyout popup on song change
 <br/><br/>
 Requires powershell v7
