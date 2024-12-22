@@ -5,6 +5,7 @@ Windows 11 modern flyout popup on song change
 12/22/2024
 
 Sources: https://github.com/lennyomg/Spotify-PowerShell
+Visit here for what my scripts are based off of and use.
 
 
 Installation instructions
