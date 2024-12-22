@@ -8,7 +8,23 @@ Sources: https://github.com/lennyomg/Spotify-PowerShell
 Visit here for what my scripts are based off of and use.
 
 
-Installation instructions
+First of all setup a spotify developer account
+https://developer.spotify.com/dashboard
+
+create app
+label it anything
+
+give it a description
+
+redirect uri   https://lennyomg.github.io/Spotify-PowerShell/index.html
+               http://localhost/callback
+
+
+your clientid and client secret will be shown. follow the below steps.
+.
+.
+.
+**Installation instructions**
 
 Requires powershell v7
 Requires ahk v2        https://www.autohotkey.com/
