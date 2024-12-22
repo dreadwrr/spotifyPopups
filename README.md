@@ -22,12 +22,12 @@ Initial steps
 First of all setup a spotify developer account
 
 
-    1. create app   https://developer.spotify.com/dashboard 
-    2. label it anything
+1. create app   https://developer.spotify.com/dashboard 
+2. label it anything
 
-    3. give it a description
+3. give it a description
 
-    4. redirect uri   https://lennyomg.github.io/Spotify-PowerShell/index.html
+4. redirect uri   https://lennyomg.github.io/Spotify-PowerShell/index.html
                   http://localhost/callback
 
 
