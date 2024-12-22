@@ -12,7 +12,8 @@ Requires modern flyouts   https://apps.microsoft.com/detail/9mt60qv066rp?hl=en-U
 
 Sources: https://github.com/lennyomg/Spotify-PowerShell
 Visit here for what my scripts are based off of and use.
-
+you can follow his guide for these 4 steps below
+<p>&nbsp;</p>  
 Initial steps
 
 First of all setup a spotify developer account
