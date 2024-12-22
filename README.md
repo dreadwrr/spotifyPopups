@@ -1,4 +1,5 @@
 # spotifyPopups
+**12/22/2024***
 Windows 11 modern flyout popup on song change
 <p>&nbsp;</p>  
 Requires powershell v7
@@ -8,7 +9,7 @@ Requires ahk v2     https://www.autohotkey.com/
 Requires modern flyouts   https://apps.microsoft.com/detail/9mt60qv066rp?hl=en-US&gl=US
 <p>&nbsp;</p>  
 <p>&nbsp;</p>  
-12/22/2024
+
 
 Sources: https://github.com/lennyomg/Spotify-PowerShell
 Visit here for what my scripts are based off of and use.
