@@ -1,15 +1,6 @@
 # spotifyPopups
 12/22/2024
-<pre>
 
-
-
-
-
-
-
-
-</pre>
 <p>&nbsp;</p>  
 Windows 11 modern flyout popup on song change
 <pre></pre>
@@ -31,7 +22,7 @@ Initial steps
 First of all setup a spotify developer account
 
 
-<br />1. create app   https://developer.spotify.com/dashboard
+    1. create app   https://developer.spotify.com/dashboard  <br />
 <br />2. label it anything
 
 <br />3. give it a description
