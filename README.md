@@ -7,17 +7,18 @@ Windows 11 modern flyout popup on song change
 Sources: https://github.com/lennyomg/Spotify-PowerShell
 Visit here for what my scripts are based off of and use.
 
+Initial steps
 
 First of all setup a spotify developer account
-https://developer.spotify.com/dashboard
 
-create app
-label it anything
 
-give it a description
+1. create app   https://developer.spotify.com/dashboard
+2. label it anything
 
-redirect uri   https://lennyomg.github.io/Spotify-PowerShell/index.html
-               http://localhost/callback
+3. give it a description
+
+4. redirect uri   https://lennyomg.github.io/Spotify-PowerShell/index.html
+                  http://localhost/callback
 
 
 your clientid and client secret will be shown. follow the below steps.
