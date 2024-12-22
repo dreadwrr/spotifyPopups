@@ -12,7 +12,7 @@
 </pre>
 <p>&nbsp;</p>  
 Windows 11 modern flyout popup on song change
-<p>&nbsp;</p>  
+<pre></pre>
 Requires powershell v7
 <p>&nbsp;</p>  
 Requires ahk v2     https://www.autohotkey.com/  
