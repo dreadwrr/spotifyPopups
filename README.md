@@ -27,7 +27,7 @@ First of all setup a spotify developer account
 
 3. give it a description
 
-4. redirect uri   https://lennyomg.github.io/Spotify-PowerShell/index.html
+4. redirect uri   https://lennyomg.github.io/Spotify-PowerShell/index.html  &
                   http://localhost/callback
 
 
