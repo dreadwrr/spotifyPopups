@@ -4,9 +4,7 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+
 
 
 <p>&nbsp;</p>  
@@ -40,9 +38,14 @@ First of all setup a spotify developer account
 
 
 your clientid and client secret will be shown. follow the below steps.
-.
-.
-.
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
 **Installation instructions**
 
 
