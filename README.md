@@ -23,22 +23,29 @@ unpack it and execute below commands
 
 Powershell commands:
 
-import-module ./Spotify-PowerShell-master/module/Spotify.psm1
+1. import-module ./Spotify-PowerShell-master/module/Spotify.psm1
 
 
-$url = New-SpotifyAccessToken -ClientId "putyourclientidhere" -PassThru
-Start-Process $url
-
+2. $url = New-SpotifyAccessToken -ClientId "putyourclientidhere" -PassThru
+3. Start-Process $url
+.
+.
 Follow onscreen instructions and paste the code into terminal
-
+.
+.
 once you paste and run the code
-
-Update-SpotifyAccessToken
-
-
+4. follow unscreen instructions and paste into command and execute
+.
+5. Update-SpotifyAccessToken
+.
+.
+.
 Once you have done that
-
-download my powershell script and ahk file and put in the same directory.
+.
+.
+.
+.
+download my powershell script and ahk file and put in the same directory of your choosing.
 open spotifyPopups.ps1 and edit your working directory
 open volumechange.ahk and edit your working directory
 
@@ -46,6 +53,8 @@ open volumechange.ahk and edit your working directory
 
 once that is running 
 double click  volumechange.ahk  to get popups on modern fly outs v2.
+
+
 
 
 
