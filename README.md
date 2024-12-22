@@ -1,5 +1,4 @@
 # spotifyPopups
-<p>&nbsp;</p>  
 12/22/2024
 <p>&nbsp;</p>  
 Windows 11 modern flyout popup on song change
