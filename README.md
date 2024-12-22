@@ -10,9 +10,6 @@ Requires ahk v2     https://www.autohotkey.com/  <br/><br/>
 Requires modern flyouts   https://apps.microsoft.com/detail/9mt60qv066rp?hl=en-US&gl=US
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 
 Sources: https://github.com/lennyomg/Spotify-PowerShell
