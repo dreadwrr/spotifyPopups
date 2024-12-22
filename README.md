@@ -29,8 +29,6 @@ your clientid and client secret will be shown. follow the below steps.
 .
 **Installation instructions**
 
-Requires powershell v7
-Requires ahk v2        https://www.autohotkey.com/
 
 download zip to my scripts  https://github.com/dreadwrr/spotifyPopups/tree/main
 unpack it to a directory of your choosing. make sure to edit working directory in both scripts.
