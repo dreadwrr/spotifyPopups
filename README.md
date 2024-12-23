@@ -54,6 +54,21 @@ then
 download zip from for the powershell module https://github.com/lennyomg/Spotify-PowerShell  
 unpack it and execute below commands
 
+Loading the module
+
+go to \modules\
+
+Open your powershell v7 console in administrative mode
+Go to directory where you put the module
+in my case its
+C:\Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
+so 
+cd \Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
+
+```
+import-module .\Spotify-PowerShell-master\module\Spotify.psm1
+```
+
 
 Powershell commands:
 
@@ -63,9 +78,15 @@ Powershell commands:
 import-module ./Spotify-PowerShell-master/module/Spotify.psm1
 ```
 
-3. $url = New-SpotifyAccessToken -ClientId "putyourclientidhere" -PassThru
+2.
+```
+$url = New-SpotifyAccessToken -ClientId "putyourclientidhere" -PassThru
+```
 
-4. Start-Process $url
+3.
+```
+Start-Process $url
+```
 
 Follow onscreen instructions and paste the code into terminal
 
@@ -74,8 +95,10 @@ once you paste and run the code
 
 4. follow unscreen instructions and paste into command and execute
 
-5. Update-SpotifyAccessToken
-
+5.
+```
+Update-SpotifyAccessToken
+```
 
 
 Once you have done that
