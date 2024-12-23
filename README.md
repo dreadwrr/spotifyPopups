@@ -9,13 +9,15 @@ Influence from this came from https://www.reddit.com/r/spotify/comments/5yftah/s
 I simply implemented what his idea was. What the ahk file does is read from a file and determines if the song has changed. it then lowers the volume by 2 and raises by 2. thus showing the OSD of modern flyout.
 
 I find it nice when developing or chilling that the song is shown on screen as it changes. While gaming you could just not run the scripts. I hope this gives people that would like a popup a solution. 
-
+<pre>
 
 Requires powershell v7 <br>
 Requires ahk v2     https://www.autohotkey.com/  
 Requires modern flyouts   https://apps.microsoft.com/detail/9mt60qv066rp?hl=en-US&gl=US
 
-<pr><pr>
+
+
+</pre>
 
 Sources: https://github.com/lennyomg/Spotify-PowerShell
 Visit here for what my scripts are based off of and use.
