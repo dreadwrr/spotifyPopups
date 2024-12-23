@@ -11,6 +11,7 @@ Requires modern flyouts   https://apps.microsoft.com/detail/9mt60qv066rp?hl=en-U
 The intent of these two scripts the .ps1 and .ahk script is to get the modern flyout to appear when a spotify song changes. In windows 11 spotify disabled desktop notifications. Most likely due to a buggy on screen display. Modern flyouts allows you to see your song metadata and artwork. My script allows you to see all this as the song changes.
 
 Influence from this came from <br> https://www.reddit.com/r/spotify/comments/5yftah/show_notification_on_song_change_windows_10/
+<br>
 I simply implemented what his idea was. What the ahk file does is read from a file and determines if the song has changed. it then lowers the volume by 2 and raises by 2. thus showing the OSD of modern flyout.
 
 I find it nice when developing or chilling that the song is shown on screen as it changes. While gaming you could just not run the scripts. I hope this gives people that would like a popup a solution. 
