@@ -70,7 +70,12 @@ cd \Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
 <br>
 <br>
 <br>
+type <br>
 
+#change below to your working directory <br>
+import-module -Name C:\Users\csaig.DESKTOP-6GUPK6C\Documents\PowerShell\Modules\Spotify-PowerShell-master\Module\Spotify.psd1 -verbose  
+<br>
+this will load the module properly so its always loaded in powershell.  <br><br>
 
 # Powershell commands to follow:
 <br>
