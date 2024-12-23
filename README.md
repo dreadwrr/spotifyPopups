@@ -111,14 +111,14 @@ Update-SpotifyAccessToken
 ```
 <br><br>
 
-#Once you have done that
+# Once you have done that
 
-<br>
+
 
 download my powershell script and ahk file and put in the same directory of your choosing. <br>
 open spotifyPopups.ps1 and edit your working directory <br>
 open volumechange.ahk and edit your working directory <br>
-<br><br><br>
+<br><br>
 Run my script in powershell 
 
 ./stopifyPopups.ps1
