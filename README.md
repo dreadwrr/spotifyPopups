@@ -11,7 +11,7 @@ I simply implemented what his idea was. What the ahk file does is read from a fi
 I find it nice when developing or chilling that the song is shown on screen as it changes. While gaming you could just not run the scripts. I hope this gives people that would like a popup a solution. 
 <pre>
 
-Requires powershell v7 <br>
+Requires powershell v7 
 Requires ahk v2     https://www.autohotkey.com/  
 Requires modern flyouts   https://apps.microsoft.com/detail/9mt60qv066rp?hl=en-US&gl=US
 
