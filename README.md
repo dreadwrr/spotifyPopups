@@ -92,10 +92,15 @@ import-module ./Spotify-PowerShell-master/module/Spotify.psm1
 
 2.
 ```
-$url = New-SpotifyAccessToken -ClientId "putyourclientidhere" -PassThru
+New-SpotifyAccessToken
 ```
 
 3.
+```
+$url = New-SpotifyAccessToken -ClientId "putyourclientidhere" -PassThru
+```
+
+4.
 ```
 Start-Process $url
 ```
