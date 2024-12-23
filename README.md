@@ -39,7 +39,7 @@ First of all setup a spotify developer account
                   http://localhost/callback
 
 your clientid and client secret will be shown. follow the below steps.
-
+<br>
 
 
 # **Installation instructions**
@@ -55,7 +55,7 @@ then
 
 download zip from for the powershell module https://github.com/lennyomg/Spotify-PowerShell  
 unpack it and execute below commands
-<br>
+<br><br>
 # Loading the module
 
 go to \modules\
