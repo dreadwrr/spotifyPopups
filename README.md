@@ -49,7 +49,7 @@ your clientid and client secret will be shown. follow the below steps.
 <br>
 
 
-**Installation instructions**
+# **Installation instructions**
 
 
 download zip to my scripts  https://github.com/dreadwrr/spotifyPopups/tree/main  <br>
@@ -63,7 +63,7 @@ then
 download zip from for the powershell module https://github.com/lennyomg/Spotify-PowerShell  
 unpack it and execute below commands
 
-Loading the module
+# Loading the module
 
 go to \modules\
 <br>
@@ -79,7 +79,7 @@ cd \Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
 <br>
 
 
-Powershell commands:
+# Powershell commands:
 <br>
 <br>
 
@@ -111,7 +111,7 @@ Update-SpotifyAccessToken
 ```
 <br><br>
 
-Once you have done that
+# Once you have done that
 
 <br>
 
