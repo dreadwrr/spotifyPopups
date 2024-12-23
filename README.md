@@ -23,8 +23,7 @@ Visit here for what my scripts are based off of and use.
 you can follow his guide for these 4 steps below
 <br>
 <br>
-<br>
-<br>
+
 
 
 # Initial steps
