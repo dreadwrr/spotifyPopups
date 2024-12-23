@@ -57,7 +57,6 @@ unpack it and execute below commands
 
 Powershell commands:
 
-##
 '''bash
 1. import-module ./Spotify-PowerShell-master/module/Spotify.psm1
 '''
