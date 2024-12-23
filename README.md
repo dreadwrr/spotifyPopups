@@ -44,8 +44,7 @@ your clientid and client secret will be shown. follow the below steps.
 
 <br>
 <br>
-<br>
-<br>
+
 
 
 # **Installation instructions**
