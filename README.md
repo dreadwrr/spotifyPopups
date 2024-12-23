@@ -112,12 +112,13 @@ once you paste and run the code
 Update-SpotifyAccessToken
 ```
 <br><br>
-If none of that worked you can try it this way
+#If none of that worked you can try it this way. Disregard if above worked.  <br>
 
 The command New-SpotifyAccessToken requests a new Spotify authorization token. Open the URL that the command prints to the console and confirm authentication. <br>
 ```
 New-SpotifyAccessToken -CliendId "spotify-app-id"
 ```
+
 <br>
 After successful authentication on the Spotify web-site, you will be redirected to a page with a PowerShell command to complete authentication in PowerShell.
 ```
