@@ -74,7 +74,6 @@ cd \Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
 
 # Powershell commands to follow:
 <br>
-<br>
 
 1.
 ```
