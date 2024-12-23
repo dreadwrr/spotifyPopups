@@ -17,7 +17,8 @@ I simply implemented what his idea was. What the ahk file does is read from a fi
 I find it nice when developing or chilling that the song is shown on screen as it changes. While gaming you could just not run the scripts. I hope this gives people that would like a popup a solution. 
 
 
-Sources: https://github.com/lennyomg/Spotify-PowerShell
+Sources: https://github.com/lennyomg/Spotify-PowerShell 
+<br><br>
 Visit here for what my scripts are based off of and use.
 you can follow his guide for these 4 steps below
 <br>
