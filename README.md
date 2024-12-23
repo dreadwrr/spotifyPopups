@@ -122,6 +122,12 @@ double click  volumechange.ahk  to get popups on modern fly outs v2.
 ***Note make sure you edit your working directory in both of my scripts*****
 
 
+check out audio band <br>
+https://github.com/AudioBand/AudioBand  <br><br>
+
+Youve learned how the spotify api works. This will modify the windows 11 task bar with the spotify clientid and client secret and show the song in your task bar. So you could have this installed and not need to run scrips for song change. It will update on song change automatically.
+
+
 
 
 
