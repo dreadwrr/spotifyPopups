@@ -1,3 +1,7 @@
+12/23/2024 *** I will be making a new version that will ask for your client id when you run the powershell script
+or load from a stored value. The program will update the stored value if you enter it so all you have to do 
+is click.
+
 # spotifyPopups
 
 12/22/2024
