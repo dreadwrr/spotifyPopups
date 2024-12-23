@@ -118,7 +118,7 @@ The command New-SpotifyAccessToken requests a new Spotify authorization token. O
 ```
 New-SpotifyAccessToken -CliendId "spotify-app-id"
 ```
-<br><br>
+<br>
 After successful authentication on the Spotify web-site, you will be redirected to a page with a PowerShell command to complete authentication in PowerShell.
 ```
 New-SpotifyAccessToken -AutorizationCode "code"
