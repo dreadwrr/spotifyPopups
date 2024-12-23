@@ -109,23 +109,25 @@ once you paste and run the code
 ```
 Update-SpotifyAccessToken
 ```
-
+<br><br>
 
 Once you have done that
 
-
+<br>
 
 download my powershell script and ahk file and put in the same directory of your choosing.
 open spotifyPopups.ps1 and edit your working directory
 open volumechange.ahk and edit your working directory
-
+<br><br>
 Run my script in powershell 
 
 ./stopifyPopups.ps1
-
+<br>
 finally once that is running 
 
 double click  volumechange.ahk  to get popups on modern fly outs v2.
+<br>
+***Note make sure you edit your working directory in both of my scripts*****
 
 
 
