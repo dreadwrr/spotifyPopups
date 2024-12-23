@@ -15,7 +15,7 @@ Requires powershell v7 <br>
 Requires ahk v2     https://www.autohotkey.com/  
 Requires modern flyouts   https://apps.microsoft.com/detail/9mt60qv066rp?hl=en-US&gl=US
 
-
+<pr><pr>
 
 Sources: https://github.com/lennyomg/Spotify-PowerShell
 Visit here for what my scripts are based off of and use.
