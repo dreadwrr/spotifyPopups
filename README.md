@@ -108,11 +108,9 @@ Start-Process $url
 Follow onscreen instructions and paste the code into terminal
 
 once you paste and run the code
+<br><br>
 
-
-4. follow unscreen instructions and paste into command and execute
-
-
+5. 
 ```
 Update-SpotifyAccessToken
 ```
