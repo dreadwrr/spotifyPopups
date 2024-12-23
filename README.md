@@ -2,6 +2,7 @@
 
 12/22/2024
 Windows 11 modern flyout popup on song change
+Updated version in branch 2 with file checks (if your directories arent right it sends notification and quits all scripts)
 <pre>
 
 Requires powershell v7 
