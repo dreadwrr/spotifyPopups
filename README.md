@@ -57,9 +57,9 @@ unpack it and execute below commands
 
 Powershell commands:
 
-'''bash
-1. import-module ./Spotify-PowerShell-master/module/Spotify.psm1
-'''
+##
+<tab><tab>1. import-module ./Spotify-PowerShell-master/module/Spotify.psm1
+
 3. $url = New-SpotifyAccessToken -ClientId "putyourclientidhere" -PassThru
 
 4. Start-Process $url
