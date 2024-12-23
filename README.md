@@ -24,8 +24,6 @@ you can follow his guide for these 4 steps below
 <br>
 <br>
 
-
-
 # Initial steps
 
 First of all setup a spotify developer account
