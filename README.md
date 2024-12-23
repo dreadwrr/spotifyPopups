@@ -65,9 +65,6 @@ C:\Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
 so 
 cd \Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
 
-```
-import-module .\Spotify-PowerShell-master\module\Spotify.psm1
-```
 
 
 Powershell commands:
