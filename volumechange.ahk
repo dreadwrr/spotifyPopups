@@ -13,7 +13,6 @@
 workingDir := "C:\Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules\songplaying.txt" 
 
 
-
 ;function to get string for line number
 FileReadLine(file_to_read, line_number)
 {
@@ -24,6 +23,14 @@ FileReadLine(file_to_read, line_number)
     return line_text
 }
 
+;checking if youre in the right directory
+;exit on error or notify Auto Hot Key is running.
+if not fileCheck := FileExist(workingDir) {
+    MsgBox "ahk failed. please set your working directory in volumechange.ahk."
+    Sleep 15
+    Exit(ExitCode := 1) ;
+}
+
 
 
 oldsong := FileReadLine(workingDir, 1)
@@ -32,14 +39,14 @@ oldsong := FileReadLine(workingDir, 1)
 
 loop {
     newsong := FileReadLine(workingDir, 1)
-    sleep 2 ; 
+    sleep 1 ; 
     
 
 if oldsong != newsong  {
     oldsong := newsong ;
     Send "{Volume_Down 3}" ; 
     Send "{Volume_Up 3}" ;
-    sleep 2 ; 
+    sleep 3000 ; 
 } 
 
 
