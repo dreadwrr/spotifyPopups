@@ -53,11 +53,11 @@ your clientid and client secret will be shown. follow the below steps.
 
 download zip to my scripts  https://github.com/dreadwrr/spotifyPopups/tree/main
 unpack it to a directory of your choosing. make sure to edit working directory in both scripts.
-
-
+<br>
+<br>
 then
-
-
+<br>
+<br>
 
 download zip from for the powershell module https://github.com/lennyomg/Spotify-PowerShell  
 unpack it and execute below commands
@@ -65,18 +65,23 @@ unpack it and execute below commands
 Loading the module
 
 go to \modules\
-
+<br>
+<br>
+<br>
 Open your powershell v7 console in administrative mode
 Go to directory where you put the module
 in my case its
 C:\Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
 so 
 cd \Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
-
+<br>
+<br>
+<br>
 
 
 Powershell commands:
-
+<br>
+<br>
 
 1.
 ```
