@@ -66,12 +66,12 @@ Loading the module
 
 go to \modules\
 <br>
-Open your powershell v7 console in administrative mode
+Open your powershell v7 console in administrative mode <br>
 Go to directory where you put the module
 in my case its
 <br>
-C:\Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
-so 
+C:\Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules  <br>
+so <br>
 cd \Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
 <br>
 <br>
