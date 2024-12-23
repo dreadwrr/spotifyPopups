@@ -7,7 +7,6 @@ Windows 11 modern flyout popup on song change
 Requires powershell v7 
 Requires ahk v2     https://www.autohotkey.com/  
 Requires modern flyouts   https://apps.microsoft.com/detail/9mt60qv066rp?hl=en-US&gl=US
-
 </pre>
 The intent of these two scripts the .ps1 and .ahk script is to get the modern flyout to appear when a spotify song changes. In windows 11 spotify disabled desktop notifications. Most likely due to a buggy on screen display. Modern flyouts allows you to see your song metadata and artwork. My script allows you to see all this as the song changes.
 
