@@ -107,15 +107,17 @@ once you paste and run the code
 
 4. follow unscreen instructions and paste into command and execute
 
-5.
+
 ```
 Update-SpotifyAccessToken
 ```
+
 <br><br>
 # If none of that worked you can try it this way. Disregard if above worked.  <br>
 
 The command New-SpotifyAccessToken requests a new Spotify authorization token. Open the URL that the command prints to the console and confirm authentication. <br>
 1. <br>
+
 ```
 New-SpotifyAccessToken -CliendId "spotify-app-id"
 ```
