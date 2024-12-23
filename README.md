@@ -1,43 +1,35 @@
 # spotifyPopups
-<br/><br/>
+
 12/22/2024
-<br/><br/>
+
 Windows 11 modern flyout popup on song change <br/><br/>
-<br/><br/>
-<br/><br/>
+
 Requires powershell v7 <br/><br/>
 Requires ahk v2     https://www.autohotkey.com/  <br/><br/>
 Requires modern flyouts   https://apps.microsoft.com/detail/9mt60qv066rp?hl=en-US&gl=US
-<br/><br/>
-<br/><br/>
 
 
 Sources: https://github.com/lennyomg/Spotify-PowerShell
 Visit here for what my scripts are based off of and use.
 you can follow his guide for these 4 steps below
-<p>&nbsp;</p>  
+
+
 Initial steps
 
 First of all setup a spotify developer account
 
 
-&ensp;&ensp;1. create app   https://developer.spotify.com/dashboard 
-&ensp;&ensp;2. label it anything
+1. create app   https://developer.spotify.com/dashboard 
+2. label it anything
 
-&ensp;&ensp;3. give it a description
+3. give it a description
 
-&ensp;&ensp;4. redirect uri   https://lennyomg.github.io/Spotify-PowerShell/index.html  &
+4. redirect uri   https://lennyomg.github.io/Spotify-PowerShell/index.html  &
                   http://localhost/callback
 
 
 your clientid and client secret will be shown. follow the below steps.
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 **Installation instructions**
 
