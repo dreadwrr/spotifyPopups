@@ -40,8 +40,7 @@ First of all setup a spotify developer account
 
 your clientid and client secret will be shown. follow the below steps.
 
-<br>
-<br>
+
 
 # **Installation instructions**
 
