@@ -59,7 +59,8 @@ Powershell commands:
 
 
 1.
-```import-module ./Spotify-PowerShell-master/module/Spotify.psm1
+```
+import-module ./Spotify-PowerShell-master/module/Spotify.psm1
 ```
 
 3. $url = New-SpotifyAccessToken -ClientId "putyourclientidhere" -PassThru
