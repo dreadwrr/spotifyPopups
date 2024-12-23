@@ -51,7 +51,7 @@ your clientid and client secret will be shown. follow the below steps.
 **Installation instructions**
 
 
-download zip to my scripts  https://github.com/dreadwrr/spotifyPopups/tree/main
+download zip to my scripts  https://github.com/dreadwrr/spotifyPopups/tree/main  <br>
 unpack it to a directory of your choosing. make sure to edit working directory in both scripts.
 <br>
 <br>
