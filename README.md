@@ -146,9 +146,9 @@ Run my script in powershell
 
 ./stopifyPopups.ps1
 <br>
-finally once that is running 
+the script automatically loads the volumechange.ahk
+with detection for missing or invalid directories/files incase you forgot to set the working directory.
 
-double click  volumechange.ahk  to get popups on modern fly outs v2.
 <br><br>
 ***Note make sure you edit your working directory in both of my scripts*****
 
