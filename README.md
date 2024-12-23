@@ -79,7 +79,7 @@ cd \Users\csaig.DESKTOP-6GUPK6C\Documents\WindowsPowerShell\Modules
 <br>
 
 
-# Powershell commands:
+# Powershell commands to follow:
 <br>
 <br>
 
