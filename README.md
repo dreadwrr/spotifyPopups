@@ -123,7 +123,7 @@ New-SpotifyAccessToken -CliendId "spotify-app-id"
 ```
 
 <br>
-After successful authentication on the Spotify web-site, you will be redirected to a page with a PowerShell command to complete authentication in PowerShell. <br>
+After successful authentication on the Spotify web-site, you will be redirected to a page with a PowerShell command to complete authentication in PowerShell. <br><br>
 2. <br>
 
 ```
