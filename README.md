@@ -126,7 +126,7 @@ New-SpotifyAccessToken -AutorizationCode "code"
 <br><br>
 <br>
 you may not have to do the last one just left it in here just in case.
-<br><br><>br
+<br><br><br>
 # Once you have done that
 
 
