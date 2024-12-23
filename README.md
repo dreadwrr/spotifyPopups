@@ -55,7 +55,7 @@ then
 
 download zip from for the powershell module https://github.com/lennyomg/Spotify-PowerShell  
 unpack it and execute below commands
-
+<br>
 # Loading the module
 
 go to \modules\
